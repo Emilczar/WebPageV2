@@ -1,0 +1,11 @@
+@import '../../node_modules/bootstrap/scss/bootstrap';
+@import 'base/base';
+@import 'pages/pages';
+@import 'components/components';
+
+
+
+footer .col-auto {
+    padding: 0;
+    text-align: center;
+}
